@@ -9,10 +9,10 @@ const NavBar = () => {
                 <Navbar className='sticky'>
                     <NavbarContent className=' sm:flex gap-4 ' justify='center' >
                         <NavbarItem>
-                            <Link as={NavLink}  color='foreground' to="/WebPersonal">Home</Link>
+                            <Link as={NavLink}  color='foreground' to="/">Inicio</Link>
                         </NavbarItem>
                         <NavbarItem>
-                            <Button as={NavLink} color='danger' variant="bordered" to="/contact" >Contact</Button>
+                            <Button as={NavLink} color='danger' variant="bordered" to="/contact" >Contacto</Button>
                         </NavbarItem>
                     </NavbarContent>
                 </Navbar>

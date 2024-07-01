@@ -10,11 +10,11 @@ const HeaderHome = () => {
             </div>
             <div className='w-1/2 text-center'>
                 <h1 className='font-serif text-1xl sm:text-2xl md:text-2xl  lg:text-3xl xl:text-4xl'>
-                    Software developer.
+                    Ingeniero de sistemas y computación.
                 </h1>
                 <br />
-                <p className='font-serif hover:text-3xl text-1xl sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl'>
-                    Building Robust Digital Infrastructure.
+                <p className='font-serif hover:text-5xl text-1xl sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl'>
+                    Desarrollador de software
                 </p>
             </div>
         </div>

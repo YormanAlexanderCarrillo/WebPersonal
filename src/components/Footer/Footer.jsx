@@ -4,7 +4,7 @@ import { Avatar, Link } from '@nextui-org/react'
 const Footer = () => {
     return (
         <div className='flex flex-col h-50 bg-cyan-700 items-center rounded-b-2xl '>
-            <h2 className='font-serif text-sl sm:text-2xl pb-1 pt-2'> Building Robust Digital Infrastructure.</h2>
+            <h2 className='font-serif text-sl sm:text-2xl pb-1 pt-2'> Construyendo una infraestructura digital robusta.</h2>
 
             <div className="flex gap-3 items-center sm:p-5 pb-2">
                 <Avatar as={Link} target="_blank"
@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
 
             <div className="flex  items-center pb-3">
-                    <h3 className='font-serif text-xs sm:text-sm'>Made with react, tailwind and nextui.</h3>
+                    <h3 className='font-serif text-xs sm:text-sm'>Hecho con react, tailwind y nextui.</h3>
             </div>
         </div>
     )

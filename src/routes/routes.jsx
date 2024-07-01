@@ -13,7 +13,7 @@ const Routess = () => {
             <Router>
                 <NavBar></NavBar>
                 <Routes>
-                    <Route path="/WebPersonal" element={<HomePage />} />
+                    <Route path="/" element={<HomePage />} />
                     <Route path="/contact" element={<ContactPage />} />
                     <Route path="*" element={<NotFoundPage />} />
                 </Routes>
