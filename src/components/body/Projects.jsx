@@ -22,9 +22,9 @@ const Projects = () => {
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
             imgURl={
-              "https://yt3.googleusercontent.com/5qwoTGRZnM39x-A3byDMm0P1QihgIz_c-ah1mvidszsOQckA788p4hdrrrXiZZvcZu3JGcn4_Q=s900-c-k-c0x00ffffff-no-rj"
+              "Cultura_a_la_carta.png"
             }
-            href={""}
+            href={"https://cultura-a-la-carta.vercel.app/Books"}
           ></Project>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
