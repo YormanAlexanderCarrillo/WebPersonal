@@ -30,8 +30,9 @@ const Projects = () => {
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
             imgURl={
-              "https://yt3.googleusercontent.com/m7MDYrRp3ve_zEpxiZ0Qd7oot1YnItLKNzykUdVb15-oZNUqYFDqvlxB4vk9WS4O2fh2aORj=s900-c-k-c0x00ffffff-no-rj"
+              "GameFood.png"
             }
+            href={"https://game-food.vercel.app/"}
           ></Project>
         </div>
       </div>
