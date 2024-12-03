@@ -10,7 +10,7 @@ import {
 const BackendSkill = () => {
   return (
     <div>
-      <div className="w-96 ml-10 mr-10 pb-5">
+      <div className="w-full sm:w-96 sm:ml-10 sm:mr-10 pb-5">
         <Card className="h-auto">
           <CardHeader className="justify-center">
             <h3>Backend Skills</h3>

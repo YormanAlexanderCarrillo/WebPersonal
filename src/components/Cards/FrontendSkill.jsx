@@ -2,8 +2,8 @@ import React from 'react'
 import { Card, CardHeader, CardBody, CardFooter, Divider, Progress } from '@nextui-org/react'
 const FrontendSkill = () => {
     return (
-        <div className=' w-96 ml-10 mr-10 pb-5' >
-            <Card className='h-auto w-70'>
+        <div className='w-full sm:w-96 sm:ml-10 sm:mr-10 pb-5' >
+            <Card className='h-auto'>
                 <CardHeader className='justify-center'>
                     <h3>Frontend Skills</h3>
                 </CardHeader>
@@ -35,7 +35,7 @@ const FrontendSkill = () => {
                             value={60}
                             color='danger'
                         ></Progress>
-                        
+
                         <br />
                         <Progress size='sm' radius='sm' className={
                             {
@@ -75,7 +75,7 @@ const FrontendSkill = () => {
                             value={80}
                             color='danger'
                         ></Progress>
-                         <br />
+                        <br />
                         <Progress size='sm' radius='sm' className={
                             {
                                 base: "max-w-md",

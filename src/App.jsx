@@ -2,8 +2,8 @@ import Routess from './routes/routes'
 function App() {
 
   return (
-    <div>
-      <Routess></Routess>
+    <div className="w-full min-h-screen">
+      <Routess />
     </div>
   )
 }

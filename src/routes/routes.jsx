@@ -8,17 +8,16 @@ import NotFoundPage from '../pages/NotFound/NotFoundPage'
 
 const Routess = () => {
     return (
-        <div>
-
-            <Router>
-                <NavBar></NavBar>
+        <Router>
+            <div className="w-full min-h-screen">
+                <NavBar />
                 <Routes>
                     <Route path="/" element={<HomePage />} />
                     <Route path="/contact" element={<ContactPage />} />
                     <Route path="*" element={<NotFoundPage />} />
                 </Routes>
-            </Router>
-        </div>
+            </div>
+        </Router>
     )
 }
 
