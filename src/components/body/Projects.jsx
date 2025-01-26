@@ -13,26 +13,36 @@ const Projects = () => {
       <div className="flex flex-wrap justify-center ">
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
-            imgURl={
-              "Simulador.png"
-            }
+            imgURl={"Simulador.png"}
             href={"https://taller-movimiento-parabolico.vercel.app/"}
           ></Project>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
-            imgURl={
-              "Cultura_a_la_carta.png"
-            }
+            imgURl={"Cultura_a_la_carta.png"}
             href={"https://cultura-a-la-carta.vercel.app/Books"}
           ></Project>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
-            imgURl={
-              "GameFood.png"
-            }
+            imgURl={"GameFood.png"}
             href={"https://game-food.vercel.app/"}
+          ></Project>
+        </div>
+        <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
+          <Project
+            imgURl={"brief.png"}
+            href={
+              "https://drive.google.com/file/d/1MRkG0vZcNidSaUSHFYJ7PUvZJxtf_34l/view?usp=drive_link"
+            }
+          ></Project>
+        </div>
+        <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
+          <Project
+            imgURl={"synapse.png"}
+            href={
+              "https://drive.google.com/file/d/1sJZjCKRkDV4wbLfuLHZWQV-5UM9NFOef/view?usp=drive_link"
+            }
           ></Project>
         </div>
       </div>

@@ -1,9 +1,8 @@
-
 // tailwind.config.js
 import  {nextui} from '@nextui-org/react'
 
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
