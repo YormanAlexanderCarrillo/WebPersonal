@@ -52,7 +52,7 @@ const FormContact = () => {
         <div className="w-11/12 md:w-1/2  px-2 pt-8 ">
           <Card>
             <CardHeader className="text-center">
-              <h2>Contact Us</h2>
+              <h2>Contactame</h2>
             </CardHeader>
             <Divider />
             <CardBody>

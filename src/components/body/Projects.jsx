@@ -31,9 +31,9 @@ const Projects = () => {
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 m-4">
           <Project
-            imgURl={"brief.png"}
+            imgURl={"SysoSout.png"}
             href={
-              "https://drive.google.com/file/d/1MRkG0vZcNidSaUSHFYJ7PUvZJxtf_34l/view?usp=drive_link"
+              "https://syso-sout.vercel.app/"
             }
           ></Project>
         </div>

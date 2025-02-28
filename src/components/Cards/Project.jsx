@@ -13,7 +13,7 @@ const Project = ({imgURl, href}) => {
             >
                 <Image
                     isZoomed
-                    alt="Woman listing to music"
+                    alt="Project"
                     className="object-cover"
                     height={500}
                     src= {imgURl}
