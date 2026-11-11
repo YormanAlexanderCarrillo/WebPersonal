@@ -8,15 +8,14 @@ const AboutMe = () => {
         ¡Hola! Soy Alexander Carrillo Martinez.
         </h2>
       </div>
-      <div className="w-3/4 md:w-2/4 mx-auto pb-3 sm:pb-6 md:pb-14">
+      <div className="w-2/3 md:w-2/3 mx-auto pb-3 sm:pb-6 md:pb-14">
         <p className="text-justify md:text-center text-white  text-sm sm:text-xl md:text-2xl ">
-          Me apasiona el desarrollo de software y siempre estoy buscando
-          oportunidades para aprender y crecer. Soy Tecnólogo en
-          Telecomunicaciones y estudiante de Ingeniería de Sistemas en la
-          Universidad Pedagógica y Tecnológica de Colombia. Mi sólida formación
-          en telecomunicaciones y mis crecientes conocimientos en ingeniería de
-          sistemas me permiten abordar proyectos tecnológicos con un enfoque
-          holístico y una mentalidad analítica.
+          Ingeniero de Sistemas y Computación con formación tecnológica complementaria en
+          Telecomunicaciones. Cuento con sólida experiencia en la gestión de incidentes, monitoreo de
+          servicios críticos y soporte de redes de datos, combinada con sólidas competencias en desarrollo Full-
+          Stack (JavaScript, React.js, Node.js, Java, SpringBoot) y aplicaciones multiplataforma. Profesional
+          proactivo, adaptable y con alta capacidad analítica, enfocado en diseñar e implementar soluciones
+          tecnológicas eficientes que optimicen procesos operativos y garanticen la continuidad del negocio.
         </p>
       </div>
     </div>
